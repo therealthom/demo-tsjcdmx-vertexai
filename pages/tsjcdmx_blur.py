@@ -6,7 +6,7 @@ st.markdown("# TSJCDMX Blur")
 st.sidebar.markdown("# TSJCDMX Blur")
 
 # Credenciales de Cloud Storage
-bucket_name = "X"
+bucket_name = "x"
 credentials_path = '/Users/thom/Downloads/nuu-test-env-key.json'
 
 # Inicializar el cliente de Cloud Storage
